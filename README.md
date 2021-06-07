@@ -5,4 +5,4 @@ I'm the founder of [Lost Tech](https://losttech.software/), a company that makes
   
 Feel free to reach out to me anywhere about that kind of stuff, or read our [ML blog](https://ml.blogs.losttech.software/) for cool samples.
 
-Please vote for [64 bit array support in CoreCLR](https://github.com/dotnet/runtime/issues/12221) to make .NET better suitable for deep learning.
+Please vote for [64 bit array support in CoreCLR](https://github.com/dotnet/runtime/issues/12221).
