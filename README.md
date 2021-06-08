@@ -9,4 +9,6 @@ Feel free to reach out to me anywhere about that kind of stuff, or read [AI blog
 
 Please vote for [64 bit array support in CoreCLR](https://github.com/dotnet/runtime/issues/12221).
 
-<img src="https://github-readme-stats.vercel.app/api?username=lostmsu&show_icons=true&theme=merko&include_all_commits=true" align="right"/>
+<h4 align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=lostmsu&show_icons=true&theme=merko&include_all_commits=true"/>
+</div>
