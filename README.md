@@ -8,3 +8,5 @@ I also double in compilers and translators when bored.
 Feel free to reach out to me anywhere about that kind of stuff, or read [AI blog](https://ml.blogs.losttech.software/) for cool .NET samples.
 
 Please vote for [64 bit array support in CoreCLR](https://github.com/dotnet/runtime/issues/12221).
+
+<img src="https://github-readme-stats.vercel.app/api?username=lostmsu&show_icons=true&theme=merko&include_all_commits=true" align="right"/>
