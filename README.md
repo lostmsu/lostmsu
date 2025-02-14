@@ -5,7 +5,9 @@ I'm the founder of [Borg.games](https://borg.games/), the first peer-to-peer clo
 
 I also double in compilers and translators when bored.
 
-And triple in AI, too. Behold: [Roxy](https://itunes.apple.com/app/id6737482921?mt=8) - a hands-free voice AI for iOS, where you can connect LLM of your choice (Claude, DeepSeek, etc) or use our own (hosted on the same infrastructure as the p2p gaming). Even if you don't use iOS, or don't want to download another app, don't despair. You can instead battle Roxy right now on my [Trash Talk Arena](https://trashtalk.borg.games/) - the ultimate arbiter of the _humans vs AI_ question.
+And triple in AI, too. Behold: [Roxy](https://itunes.apple.com/app/id6737482921?mt=8) - a hands-free voice AI for iOS, where you can connect LLM of your choice (Claude, DeepSeek, etc) or use our own (hosted on the same infrastructure as the p2p gaming).
+
+Even if you don't use iOS, or don't want to download another app, don't despair. You can instead battle Roxy right now on my [Trash Talk Arena](https://trashtalk.borg.games/) - the ultimate arbiter of the _humans vs AI_ question.
 
 Feel free to reach out to me anytime about that kind of stuff.
 
